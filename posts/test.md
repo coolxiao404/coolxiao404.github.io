@@ -1,5 +1,5 @@
 ---
-title: 我的第一篇文章
+title: first
 slug："1"
 date: 2023-07-20
 draft: false
